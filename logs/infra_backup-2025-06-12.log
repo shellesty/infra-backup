@@ -1,0 +1,5 @@
+Thu Jun 12 01:37:18 PM CDT 2025: SUCCESS: Backup created at /home/shellesty/backups/backup-2025-06-12_13-37-18.tar.gz
+Thu Jun 12 01:39:18 PM CDT 2025: SUCCESS: Backup restored to /home/shellesty/restored-folder
+Thu Jun 12 01:52:11 PM CDT 2025: SUCCESS: Backup created at /home/shellesty/backups/backup-2025-06-12_13-52-11.tar.gz
+Thu Jun 12 01:52:52 PM CDT 2025: ERROR: Restore failed.
+Thu Jun 12 01:57:48 PM CDT 2025: SUCCESS: Backup restored to /home/shellesty/restore-test
